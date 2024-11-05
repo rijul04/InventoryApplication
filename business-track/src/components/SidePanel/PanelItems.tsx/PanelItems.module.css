@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.highlighted {
+  background-color: #d4e2e1;
+  width: 56%;
+  height: 56%;
+  transition: all 0.2s ease;
+  box-sizing: content-box;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 46%; /* Circular background */
+}

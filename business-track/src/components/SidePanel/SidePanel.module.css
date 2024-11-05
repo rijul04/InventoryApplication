@@ -1,0 +1,21 @@
+.sidePanel {
+  background-color: mediumturquoise;
+  width: 25%;
+  height: 100vh;
+  position: absolute;
+
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.itemContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+  gap: 4%;
+  padding-top: 10vh;
+}
+
+.tabIcon {
+  padding-bottom: 20%;
+}

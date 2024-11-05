@@ -1,0 +1,14 @@
+.toggleButtonLocation {
+  position: absolute;
+  top: 10vh;
+  left: 5vw;
+
+  background-color: #ffd8e4;
+  border-radius: 34%; /* Circular background */
+  padding-left: 3%;
+  padding-right: 3%;
+  display: flex;
+}
+
+.test {
+}
